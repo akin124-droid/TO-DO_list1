@@ -66,7 +66,7 @@ def main():
         elif choice== "5":
             break
         else :
-            print("inavid choice.")
+            print("invalid choice.")
 if __name__ == "__main__":
     main()
 
